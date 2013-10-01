@@ -1,0 +1,5 @@
+# Hide auth codes
+key.php
+
+# Hide miscellaneous files
+error_log
